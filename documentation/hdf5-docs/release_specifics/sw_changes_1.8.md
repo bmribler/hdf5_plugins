@@ -2079,7 +2079,7 @@ The patch that was required for Cygwin with HDF5 Release 1.8.0 has been rolled i
 
 HDF5 Release 1.8.0 is a major release with several new features and a variety of bugfixes, optimizations, and portability enhancements.
 
-See the document [What's New in HDF5 1.8.0](What's New in HDF5 1.8.0) for a high-level overview of the new functionality in this release. The following pages assume a familiarity with that overview.
+See the document "What's New in HDF5 1.8.0" for a high-level overview of the new functionality in this release. The following pages assume a familiarity with that overview.
 
 This section provides details of the API-level changes that have been made in the transition to HDF5 Release 1.8.0 from the Release 1.6.x series.
 
